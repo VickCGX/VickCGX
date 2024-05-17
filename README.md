@@ -10,7 +10,7 @@
 
 - Build AI-enabled applications based on LLM/OpenAI technology.
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=VickCG&theme=highcontrast&hide_border=true" width="350" style="margin-left: 8px;"/></a>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=VickCGX&theme=highcontrast&hide_border=true" width="350" style="margin-left: 8px;"/></a>
 
 ### My Skills 📜
 
