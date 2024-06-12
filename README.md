@@ -2,7 +2,6 @@
 
 🚀 With over a decade of experience, I've honed my skills in crafting cutting-edge software products. My journey is all about utilizing diverse technologies to design, develop, and deploy product-class solutions while gaining deep insights into today's latest technologies.
 
-👨‍🏭 Leading and mentoring teams, I establish coding standards.
 
 🛠️ My technical skill includes Python, NodeJS, AWS, GCP, and AI/LLM.
 
