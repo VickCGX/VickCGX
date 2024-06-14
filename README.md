@@ -3,19 +3,13 @@
 🚀 With over a decade of experience, I've honed my skills in crafting cutting-edge software products. My journey is all about utilizing diverse technologies to design, develop, and deploy product-class solutions while gaining deep insights into today's latest technologies.
 
 
-🛠️ My technical skill includes Python, NodeJS, AWS, GCP, and AI/LLM.
-
-### What I'm currently focusing 📚
-
-- Build AI-enabled applications based on LLM/OpenAI technology.
-
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=VickCGX&theme=highcontrast&hide_border=true" width="350" style="margin-left: 8px;"/></a>
+🛠️ My technical skill includes ReactJS, NodeJS, Python, AWS, GCP, and AI/LLM.
 
 ### My Skills 📜
 
 - **Python:** Django, FastAPI, Pandas, Numpy, Plotly, Matplotlib, IPython, etc.
 - **NodeJS:** ExpressJS, AdonisJS, NestJS, PassportJS, Lodash, MomentJS, etc.
-- **AI/LLM**
+- **ReactJS**
 - **JavaScript**
 - **TypeScript**
 - **ReactJS**
