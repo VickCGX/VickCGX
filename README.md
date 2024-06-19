@@ -12,7 +12,6 @@
 - **ReactJS**
 - **JavaScript**
 - **TypeScript**
-- **ReactJS**
 - **Database:** PostgreSQL, MySQL, MongoDB, CouchBase, SQLite.
 - **Message queue:** AWS SQS, RabbitMQ, Kafka.
 - **Elasticsearch**
