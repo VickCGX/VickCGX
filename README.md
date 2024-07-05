@@ -3,13 +3,13 @@
 🚀 With over a decade of experience, I've honed my skills in crafting cutting-edge software products. My journey is all about utilizing diverse technologies to design, develop, and deploy product-class solutions while gaining deep insights into today's latest technologies.
 
 
-🛠️ My technical skill includes ReactJS, NodeJS, Python, AWS, GCP.
-
 ### My Skills 📜
 
 - **Python:** Django, FastAPI, Pandas, Numpy, Plotly, Matplotlib, IPython, etc.
 - **NodeJS:** ExpressJS, AdonisJS, NestJS, PassportJS, Lodash, MomentJS, etc.
 - **ReactJS**
+- **VueJS**
+- **Angular**
 - **JavaScript**
 - **TypeScript**
 - **Database:** PostgreSQL, MySQL, MongoDB, CouchBase, SQLite.
@@ -30,6 +30,7 @@
 <img align="left" alt="NestJS" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nestjs/nestjs-plain-wordmark.svg"/>
 <img align="left" alt="Javascript" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="Typescript" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg"/>
+<img align="left" alt="VueJS" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original-wordmark.svg"/>
 <img align="left" alt="ReactJS" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg"/>
 <img align="left" alt="Postgres" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg"/>
 <img align="left" alt="MySQL" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg"/>
